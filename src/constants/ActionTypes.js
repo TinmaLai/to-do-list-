@@ -1,0 +1,13 @@
+export const LIST_ALL = 'LIST_ALL';
+export const ADD_TASK = 'ADD_TASK';
+export const TOGGLE_ADD_FORM = 'TOGGLE_ADD_FORM';
+export const CLOSE_ADD_FORM = 'CLOSE_ADD_FORM';
+export const TOGGLE_UPDATE_FORM = 'TOGGLE_UPDATE_FORM';
+export const CLOSE_UPDATE_FORM = 'CLOSE_UPDATE_FORM';
+export const UPDATE_TASK = 'UPDATE_TASK';
+export const UPDATE_ITEM = 'UPDATE_ITEM';
+export const DELETE_TASK = 'DELETE_TASK';
+export const SWITCH_STATUS = 'SWITCH_STATUS';
+export const SEARCH_INFOR = 'SEARCH_INFOR';
+export const SEARCH_TASK = 'SEARCH_TASK';
+export const SORT_LIST = 'SORT_LIST';
